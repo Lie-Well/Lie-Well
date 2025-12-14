@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lywell Palarca</h1>
 <h3 align="center">A computer science student from BulSU</h3>
 
-- 🌱 I’m currently learning **Phyton**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lie-well&label=Profile%20views&color=0e75b6&style=flat" alt="lie-well" /> </p>
+
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lie-Well](https://github.com/Lie-Well)
 
